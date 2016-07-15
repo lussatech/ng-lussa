@@ -1,0 +1,39 @@
+{
+  "name": "ng-lussa",
+  "homepage": "https://github.com/lussatech/ng-lussa",
+  "authors": [
+    "muhammad hasan <hasan@lussa.net>"
+  ],
+  "description": "the missing mvc framework for angular",
+  "main": "/dist/ng-lussa.min.js",
+  "keywords": [
+    "angular",
+    "mvc",
+    "lazyload",
+    "fast",
+    "framework",
+    "javascript",
+    "web"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "angular": "1.5.7",
+    "angular-route": "1.5.7",
+    "angular-animate": "1.5.7",
+    "angular-sanitize": "1.5.7",
+    "angular-resource": "1.5.7",
+    "angular-messages": "1.5.7",
+    "angular-ui-router": "ui-router#^0.3.1",
+    "lodash": "^4.13.1"
+  },
+  "resolutions": {
+    "angular": "1.5.7"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

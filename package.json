@@ -1,0 +1,49 @@
+{
+  "name": "ng-lussa",
+  "version": "1.0.0",
+  "description": "the missing mvc framework for angular",
+  "main": "dist/ng-lussa.min.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lussatech/ng-lussa.git"
+  },
+  "keywords": [
+    "angular",
+    "javascript",
+    "mvc",
+    "framework",
+    "lazyload"
+  ],
+  "author": "muhammad hasan <hasan@lussa.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lussatech/ng-lussa/issues"
+  },
+  "homepage": "https://github.com/lussatech/ng-lussa#readme",
+  "devDependencies": {
+    "angular-mocks": "^1.5.7",
+    "babel-cli": "^6.8.0",
+    "babel-eslint": "^6.0.4",
+    "babel-polyfill": "^6.9.0",
+    "babel-preset-es2015": "^6.6.0",
+    "babel-preset-react": "^6.5.0",
+    "babel-preset-stage-2": "^6.5.0",
+    "babel-register": "^6.9.0",
+    "chai": "^3.5.0",
+    "chai-as-promised": "^5.3.0",
+    "eslint": "^2.10.2",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-rimraf": "^0.2.0",
+    "gulp-run-sequence": "^0.3.2",
+    "gulp-uglify": "^1.5.4",
+    "gulp-util": "^3.0.7",
+    "karma": "^1.1.1",
+    "mocha": "^2.5.3",
+    "protractor": "^4.0.0",
+    "uglify": "^0.1.5"
+  }
+}
